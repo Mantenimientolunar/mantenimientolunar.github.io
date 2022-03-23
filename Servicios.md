@@ -25,23 +25,23 @@ Diseñadas para estar en un lugar fijo, regularmente ofrecen más potencia, alma
 6. Estaciones de trabajo:
 Es una equipo mucho más potente, rápido y con mayor capacidad de almacenamiento que una PC personal.
 
-Velocidad de procesamiento: Operan miles de millones de instrucciones de coma flotante por segundo.
+VELOCIDAD DE PROCESAMIENTO : Operan miles de millones de instrucciones de coma flotante por segundo.
 
-Usuarios:Pueden participar hasta miles en un entorno de redes amplias a la vez.
+USUARIOS:Pueden participar hasta miles en un entorno de redes amplias a la vez.
 
-Tamaño: Necesitan instalaciones especiales y aire acondicionado de tipo industrial, ya que, consumen mucha energía.
+TAMAÑO: Necesitan instalaciones especiales y aire acondicionado de tipo industrial, ya que, consumen mucha energía.
 
-Uso: Sólo las pueden ser manejadas por especialistas.
+USO: Sólo las pueden ser manejadas por especialistas.
 
 RAM: Cuentan con una memoria RAM extremadamente potente.
 
-Periféricos: Se caracterizan porque la mayoría no presenta periféricos de entrada ni de salida.
+PERIFERICOS: Se caracterizan porque la mayoría no presenta periféricos de entrada ni de salida.
 
-Penetración social: Es prácticamente nula, porque son usadas especialmente por centros de investigación.
+PENETRACION SOCIAL: Es prácticamente nula, porque son usadas especialmente por centros de investigación.
 
 Impacto social: Su aportación principal es en el ámbito de la investigación, proveen cálculos a la máxima velocidad de procesamiento y son muchas las aplicaciones que se han generado a partir de sus estudios.
 
-Parques instalados: Son menos de un millar en el planeta.
+PARQUES ISTALADOS: Son menos de un millar en el planeta.
 
-Hardware: Es el principal funcionamiento operativo.
+HARDWARE: Es el principal funcionamiento operativo.
 
