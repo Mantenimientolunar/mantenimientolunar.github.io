@@ -6,7 +6,7 @@
 **1.¿𝑸𝒖é 𝒉𝒂𝒄𝒆𝒓 𝒔𝒊 𝒔𝒆 𝒄𝒐𝒏𝒈𝒆𝒍𝒂 𝒎𝒊 𝒍𝒂𝒑𝒕𝒐𝒑?**
 
 
-**REINICIEO RAPIDO**
+**REINICEO RAPIDO**
 
 
 Si el nivel de congelación de tu portátil es tal que ni siquiera responde a la combinación “Ctrl + Alt + Supr”, deberás optar por la opción de reinicio rápido. No es la más recomendable, pero sí una de las más eficaces cuando tus niveles de desesperación no hacen más que aumentar.
@@ -33,3 +33,5 @@ Accede al servicio de limpieza en tu portátil con el equipo técnico especializ
 
 >**ARTICULOS DE  INTERES** 
 >¡Optimiza tu PC y mejora el rendimiento!
+
+**2.
