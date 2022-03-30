@@ -2,7 +2,8 @@
 
 <form action="https://formspree.io/f/meqnlgnq" method="post">
 Name: <input type="text" name="name"><br>
-<input type="tel" id="phone" name="phone" placeholder="123-45-678" pattern="[0-9]
+The <strong>input type="tel"</strong> is used for input fields that should contain a telephone number:</p>
+  
 E-mail: <input type="text" name="email"><br>
 <input type="submit">
 </form>
