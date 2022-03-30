@@ -6,11 +6,11 @@ Name: <input type="text" name="name"><br>
 Apellido:<input type="text" name="name"><br>
 
 E-mail: <input type="text" name="email"><br>
-<input type="submit">
+
 
 Telefono::</p>
 <form action="/action_page.php">
- <label for="phone">
+
  
 Fecha <form action="/action_page.php">
    <label for="birthday">de servicio:</label>
