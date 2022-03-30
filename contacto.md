@@ -7,10 +7,11 @@ Apellido:<input type="text" name="name"><br>
 
 Telefono:<p>The <strong>input type="tel"</strong> is used for input fields that should contain a telephone number:</p>
 
-Fecha <form action="/action_page.php">
-   <label for="birthday">de servicio:</label>
-  <input type="date" id="birthday" name="birthday">
-  <input type="submit" value="Submit">
+Fecha:
+   
+   
+   
+   
    
 E-mail: <input type="text" name="email"><br>
  
